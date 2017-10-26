@@ -1,0 +1,14 @@
+{
+    "name": "basicserver",
+    "version": "1.0.0",
+    "engine": "v6.11.0",
+    "description": "Basic server implementation",
+    "main": "app.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+        "start": "app.js"
+    },
+    "author": "",
+    "license": "ISC"
+}

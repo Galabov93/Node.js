@@ -1,0 +1,8 @@
+1. //read the uni path depending on the OS. // see "resolve"
+const path = require('path'); // nodejs built in require module
+
+http.createServer(function(req, res) { //create server
+    fs.readFile(path.resolve(__dirname, "index.html"), (err, data) //read the uni path depending on the OS.
+
+2. Get the url of the request from the server
+ const parsedURL = url.parse(req.url).pathname;
